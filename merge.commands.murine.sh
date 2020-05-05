@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=MSQ105.new								# Job name
+#SBATCH --job-name=merge.job								# Job name
 #SBATCH --mail-type=BEGIN,END,FAIL       						# Mail events (NONE, BEGIN, END, FAIL, ALL)
 #SBATCH --mail-user=benjamin.wu@nyumc.org					        # Where to send mail
 #SBATCH --ntasks=16                    							# Run on a single CPU
