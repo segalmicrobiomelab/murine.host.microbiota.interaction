@@ -9,3 +9,5 @@ Manuscript is currently in resubmission
 
 Microbiome data can be found: NIH SRA PRJNA588801 
 Transcriptome data can be found: NIH SRA PRJNA603050
+
+This repository is now published in: https://pubmed.ncbi.nlm.nih.gov/33166473/
